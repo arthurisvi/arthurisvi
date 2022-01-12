@@ -1,4 +1,4 @@
-## Bem vindo ao meu repositório! Eu sou o Arthur Isvi, estudante de Sistemas de Informação e desenvolvedor!
+## Bem vindo ao meu Github! Eu sou o Arthur Isvi, estudante de Sistemas de Informação e desenvolvedor em formação!
 
 <div align="center">
   <a href="https://github.com/arthurisvi">
