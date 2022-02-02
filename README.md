@@ -1,4 +1,8 @@
-:computer: Bem vindo ao meu Github! Eu sou o Arthur Isvi, estudante de Sistemas de Informação e desenvolvedor em formação! 
+:open_file_folder: Bem vindo ao meu Github!
+<br>
+:computer: Desenvolvedor Full Stack
+<br>
+:loudspeaker: A procura da primeira oportunidade no mercado de trabalho.
 
 ```js
 const name = 'Arthur Isvi';
