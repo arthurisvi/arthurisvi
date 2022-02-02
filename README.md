@@ -2,6 +2,8 @@
 <br>
 :computer: Desenvolvedor Full Stack
 <br>
+👨‍🎓 Graduando em Sistemas de Informação pela UPE
+<br>
 :loudspeaker: A procura da primeira oportunidade profissional.
 
 ```js
