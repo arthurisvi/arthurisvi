@@ -1,4 +1,26 @@
-## Bem vindo ao meu Github! Eu sou o Arthur Isvi, estudante de Sistemas de Informação e desenvolvedor em formação!
+:computer: Bem vindo ao meu Github! Eu sou o Arthur Isvi, estudante de Sistemas de Informação e desenvolvedor em formação! 
+
+```js
+const name = 'Arthur Isvi';
+document.write("Hello, Github");
+var status = 
+{ 
+  learning : [JavaScript, TypeScript, Node.js, Vue.js]
+}
+const skills = 
+{
+  languages: [C, Html, Css, Javascript, Java, TypeScript],
+  
+  databases: [Oracle, MySQL, PostgreSQL], 
+  
+  ide: [Vs Code, Eclipse],
+ 
+  deploy: [Heroku, Vercel],
+  
+  others: [Git, Github, Trello, Notion]
+
+}
+```
 
 <div align="center">
   <a href="https://github.com/arthurisvi">
