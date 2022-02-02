@@ -2,7 +2,7 @@
 <br>
 :computer: Desenvolvedor Full Stack
 <br>
-:loudspeaker: A procura da primeira oportunidade no mercado de trabalho.
+:loudspeaker: A procura da primeira oportunidade profissional.
 
 ```js
 const name = 'Arthur Isvi';
