@@ -11,7 +11,7 @@ const name = 'Arthur Isvi';
 document.write("Hello, Github");
 var status = 
 { 
-  learning : [JavaScript, TypeScript, Node.js, Vue.js]
+  learning : [Java, JavaScript, TypeScript, Node.js, Vue.js]
 }
 const skills = 
 {
