@@ -11,11 +11,11 @@ const name = 'Arthur Isvi';
 document.write("Hello, Github");
 var status = 
 { 
-  learning : [Java, JavaScript, TypeScript, Node.js, Vue.js]
+  learning : [Java, JavaScript, Node.js, Spring Boot, Vue.js]
 }
 const skills = 
 {
-  languages: [C, Html, Css, Javascript, Java, TypeScript],
+  languages: [C, Html, Css, JavaScript, Java, TypeScript],
   
   databases: [Oracle, MySQL, PostgreSQL], 
   
