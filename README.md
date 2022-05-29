@@ -11,13 +11,15 @@ const name = 'Arthur Isvi';
 document.write("Hello, Github");
 var status = 
 { 
-  learning : [Java, JavaScript, Node.js, Spring Boot, Vue.js]
+  learning : [Laravel, React Native, Nest.js]
 }
 const skills = 
 {
-  languages: [C, Html, Css, JavaScript, Java, TypeScript],
+  languages: [Html, Css, JavaScript, PHP, Java, TypeScript],
   
-  databases: [Oracle, MySQL, PostgreSQL], 
+  frameworks: [Laravel, Spring Boot, Vue.js, AngularJS],
+  
+  databases: [Oracle, MySQL, PostgreSQL, MongoDB], 
   
   ide: [Vs Code, Eclipse],
  
@@ -35,6 +37,8 @@ const skills =
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Arthur-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg">
+  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Arthur-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Arthur-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
