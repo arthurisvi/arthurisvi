@@ -1,10 +1,9 @@
 :open_file_folder: Bem vindo ao meu Github!
 <br>
-:computer: Desenvolvedor Full Stack
+:computer: Desenvolvedor Full Stack - PHP | Laravel na Softmakers
 <br>
 👨‍🎓 Graduando em Sistemas de Informação pela UPE
 <br>
-:loudspeaker: A procura da primeira oportunidade profissional.
 
 ```js
 const name = 'Arthur Isvi';
@@ -17,7 +16,7 @@ const skills =
 {
   languages: [Html, Css, JavaScript, PHP, Java, TypeScript],
   
-  frameworks: [Laravel, Spring Boot, Vue.js, AngularJS],
+  frameworks: [Laravel, Spring Boot, Vue.js],
   
   databases: [Oracle, MySQL, PostgreSQL, MongoDB], 
   
