@@ -14,15 +14,15 @@ var status =
 }
 const skills = 
 {
-  languages: [Html, Css, JavaScript, PHP, Java, TypeScript],
+  languages: [Html, Css, JavaScript, PHP, Java, TypeScript, C],
   
-  frameworks: [Laravel, Spring Boot, Vue.js],
+  frameworks: [Laravel, Node.js, Spring Boot, Vue.js, Ionic],
   
   databases: [Oracle, MySQL, PostgreSQL, MongoDB], 
   
   ide: [Vs Code, Eclipse],
  
-  deploy: [Heroku, Vercel],
+  deploy: [Heroku, Vercel, AWS],
   
   others: [Git, Github, Trello, Notion]
 
