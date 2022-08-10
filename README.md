@@ -10,7 +10,7 @@ const name = 'Arthur Isvi';
 document.write("Hello, Github");
 var status = 
 { 
-  learning : [Laravel, ReactJS, React Native, Nest.js]
+  learning : [Laravel, ReactJS, React Native]
 }
 const skills = 
 {
