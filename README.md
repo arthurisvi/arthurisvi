@@ -2,7 +2,7 @@
 <br>
 :computer: Desenvolvedor Full Stack - PHP | Laravel na Softmakers
 <br>
-👨‍🎓 Graduando em Sistemas de Informação pela UPE
+👨‍🎓 Graduando em Sistemas de Informação pela UPE (7/8)
 <br>
 
 ```js
