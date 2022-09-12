@@ -1,6 +1,6 @@
 :open_file_folder: Bem vindo ao meu Github!
 <br>
-:computer: Desenvolvedor Full Stack - PHP | Laravel | ReactJS na Softmakers
+:computer: Desenvolvedor Full Stack - PHP | Laravel | Node.js | ReactJS na Softmakers
 <br>
 👨‍🎓 Graduando em Sistemas de Informação pela UPE (7/8)
 <br>
@@ -10,7 +10,7 @@ const name = 'Arthur Isvi';
 document.write("Hello, Github");
 var status = 
 { 
-  learning : [Laravel, ReactJS, Node.js, React Native]
+  learning : [Laravel, ReactJS, Node.js, AdonisJS, React Native]
 }
 const skills = 
 {
