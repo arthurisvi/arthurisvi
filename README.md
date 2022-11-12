@@ -2,7 +2,7 @@
 <br>
 :computer: Desenvolvedor Full Stack - PHP | Laravel | Node.js | ReactJS na Softmakers
 <br>
-👨‍🎓 Graduando em Sistemas de Informação pela UPE (7/8)
+👨‍🎓 Graduando em Sistemas de Informação pela UPE (8/8)
 <br>
 
 ```js
