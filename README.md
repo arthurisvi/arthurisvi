@@ -10,19 +10,19 @@ const name = 'Arthur Isvi';
 document.write("Hello, Github");
 var status = 
 { 
-  learning : [Laravel, ReactJS, Node.js, AdonisJS, React Native]
+  learning : [Node.js, TypeScript, Docker, TypeORM, ReactJS]
 }
 const skills = 
 {
   languages: [Html, Css, JavaScript, PHP, Java, TypeScript, C],
   
-  frameworks: [Laravel, Node.js, Vue.js, Ionic],
+  frameworks: [Laravel, Node.js, ReactJS, Vue.js, Ionic, React Native],
   
   databases: [Oracle, MySQL, PostgreSQL, MongoDB], 
   
   ide: [Vs Code, Eclipse],
  
-  deploy: [Heroku, Vercel, AWS],
+  deploy: [Heroku, Vercel, AWS, Hostgator],
   
   others: [Git, Github, Trello, Notion]
 
@@ -31,8 +31,8 @@ const skills =
 
 <div align="center">
   <a href="https://github.com/arthurisvi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurisvi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurisvi&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurisvi&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurisvi&layout=compact&langs_count=7&theme=darcula"/>
 </div>
   
 <div style="display: inline_block"><br>
