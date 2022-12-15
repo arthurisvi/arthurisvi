@@ -10,7 +10,7 @@ const name = 'Arthur Isvi';
 document.write("Hello, Github");
 var status = 
 { 
-  learning : [Node.js, TypeScript, Docker, TypeORM, ReactJS]
+  learning : [Node.js, Nestjs, TypeScript, Docker, TypeORM, ReactJS]
 }
 const skills = 
 {
