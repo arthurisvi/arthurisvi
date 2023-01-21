@@ -32,12 +32,11 @@ const skills =
   versioning: [Git, Github, GitFlow]
 }
 ```
-<!-- 
 <div align="center">
   <a href="https://github.com/arthurisvi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurisvi&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurisvi&layout=compact&langs_count=7&theme=darcula"/>
-</div> -->
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurisvi&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurisvi&layout=compact&langs_count=7&theme=darcula"/>
+</div>
   
 <div style="display: inline_block"><br>
   <h2>Tecnologias Backend</h2>
