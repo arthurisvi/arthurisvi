@@ -10,30 +10,34 @@ const name = 'Arthur Isvi';
 document.write("Hello, Github");
 var status = 
 { 
-  learning : [Node.js, Nestjs, TypeScript, Docker, TypeORM, ReactJS]
+  openToWork: false,
+  learning: [Solid, Tdd, Ddd, Design Patterns]
 }
 const skills = 
 {
-  languages: [Html, Css, JavaScript, PHP, Java, TypeScript, C],
+  frontend: [Html, Css, Bootstrap, JavaScript, JQuery, React],
   
-  frameworks: [Laravel, Node.js, ReactJS, Vue.js, Ionic, React Native],
+  backend: [Php, Laravel, TypeScript, Node, Nest, Adonis, Express],
   
-  databases: [Oracle, MySQL, PostgreSQL, MongoDB], 
+  mobile: [Ionic, React Native],
   
-  ide: [Vs Code, Eclipse],
+  databases: [Oracle, MySQL, PostgreSQL], 
+  
+  orms: [TypeORM, Prisma],  
+  
+  ide: [VSCode],
  
-  deploy: [Heroku, Vercel, AWS, Hostgator],
+  deploy: [Heroku, Vercel, Aws, Hostgator],
   
-  others: [Git, Github, Trello, Notion]
-
+  versioning: [Git, Github, GitFlow]
 }
 ```
-
+<!-- 
 <div align="center">
   <a href="https://github.com/arthurisvi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurisvi&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurisvi&layout=compact&langs_count=7&theme=darcula"/>
-</div>
+</div> -->
   
 <div style="display: inline_block"><br>
   <h2>Tecnologias Backend</h2>
@@ -47,7 +51,6 @@ const skills =
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt = "Arthur-ReactJS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Arthur-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
   
   ##
