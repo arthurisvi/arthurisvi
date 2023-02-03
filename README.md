@@ -1,6 +1,6 @@
 :open_file_folder: Bem vindo ao meu Github!
 <br>
-:computer: Desenvolvedor Full Stack - PHP | Laravel | Node.js | ReactJS na Softmakers
+:computer: Desenvolvedor Full Stack - PHP | Laravel | Node.js na Bling
 <br>
 👨‍🎓 Graduando em Sistemas de Informação pela UPE (8/8)
 <br>
