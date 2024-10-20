@@ -12,12 +12,10 @@ class Developer {
  
   public $name;
   public $skills;
-  public $openToWork;
   
-  public function __construct($name, $skills, $openToWork){
+  public function __construct($name, $skills){
     $this->name = $name;
     $this->skills = $skills;
-    $this->openToWork = $openToWork;
   }
 }
 
@@ -25,7 +23,7 @@ $mySkills = array(
 
   "frontend" => array("HTML", "CSS", "Bootstrap", "Javascript", "JQuery", "React", "Vue"),
   
-  "backend" => array("PHP", "Laravel", "TypeScript", "Node", "Nest", "Adonis", "Express"),
+  "backend" => array("PHP", "Laravel", "GO", "HyperF", "TypeScript", "Node", "Nest", "Adonis", "Express"),
 );
 
 $dev = new Developer ('Arthur Isvi', $mySkills, false);
