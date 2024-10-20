@@ -20,13 +20,12 @@ class Developer {
 }
 
 $mySkills = array(
-
-  "frontend" => array("HTML", "CSS", "Bootstrap", "Javascript", "JQuery", "React", "Vue"),
-  
-  "backend" => array("PHP", "Laravel", "GO", "HyperF", "TypeScript", "Node", "Nest", "Adonis", "Express"),
+  "frontend" => array("HTML", "CSS", "Bootstrap", "Javascript", "JQuery", "React", "Vue"),  
+  "backend" => array("PHP", "Laravel", "HyperF", "Swoole", "GO"),
+  "others" => array("Docker", "Kafka", "Redis", "DynamoDB", "MySQL")
 );
 
-$dev = new Developer ('Arthur Isvi', $mySkills, false);
+$dev = new Developer ('Arthur Isvi', $mySkills);
 echo $dev;
 
 ```
