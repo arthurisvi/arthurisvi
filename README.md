@@ -1,8 +1,8 @@
 :open_file_folder: Welcome to my Github!
 <br>
-:computer: Software Developer at Bling
+:computer: Software Developer at Olist
 <br>
-👨‍🎓 Information Systems at UPE (8/8)
+👨‍🎓 Graduated in Information Systems from UPE
 <br>
  
  ```php
