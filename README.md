@@ -10,27 +10,26 @@
  
 class Developer {
  
-  public $name;
-  public $skills;
+  public string $name;
+  public array $skills;
   
-  public function __construct($name, $skills){
+  public function __construct(string $name, array $skills){
     $this->name = $name;
     $this->skills = $skills;
   }
+
 }
 
-$mySkills = array(
-  "frontend" => array("HTML", "CSS", "Bootstrap", "Javascript", "JQuery", "React", "Vue"),  
-  "backend" => array("PHP", "Laravel", "HyperF", "Swoole", "GO"),
-  "others" => array("Docker", "Kafka", "Redis", "DynamoDB", "MySQL")
-);
+$mySkills = [
+  "frontend" => ["HTML", "CSS", "Bootstrap", "Javascript", "JQuery", "React", "Vue"],  
+  "backend" => ["PHP", "Laravel", "HyperF", "Swoole", "GO"],
+  "others" => ["Docker", "Kafka", "Redis", "DynamoDB", "MySQL"]
+];
 
 $dev = new Developer ('Arthur Isvi', $mySkills);
 echo $dev;
 
 ```
-![Snake animation](https://github.com/isaac545454/isaac545454/blob/output/github-contribution-grid-snake.svg)
-
 
  <div style="">
     
